@@ -1,0 +1,118 @@
+.topbar {
+
+background-color: #009bde;
+
+
+
+}
+body, p {
+
+margin: 0px;
+
+
+}
+.title0 {
+
+color: white;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+}
+img {
+
+height: auto;
+width: 100%;
+
+
+}
+.inside {
+color: black;
+
+
+
+}
+.inbox { 
+    width: 100%; 
+} 
+.in { 
+    float: left; 
+    width: 60%;
+} 
+.in2 { 
+    float: left; 
+    width: 40%;
+} 
+.sj{
+    
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.js{
+    
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+.yellow {
+    background-color: white;
+    height: 0px;
+}
+.friday, .sunday{
+background-color: black;
+margin-left: 24px;
+border-top-left-radius: 8px;
+border-bottom-left-radius: 7px;
+font-size: 32px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.a11, .a12 {
+
+color: white;
+
+
+}
+.booking {
+
+background-color: rgb(255, 255, 255);
+float: right;
+margin-right: 20px;
+width: 160px;
+height: 48px;
+font-size: 28px;
+border-radius: 7px;
+}
+.tr {
+margin-right: 20px;
+float: right;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+.sasa {
+
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+
+
+
+}
+.asas {
+
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: 10px;
+
+
+
+
+}
+.links {
+
+color: #009bde;
+
+
+
+}
